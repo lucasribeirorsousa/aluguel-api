@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "./venv/aluguel/bin/python3.9",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+    "python.linting.enabled": true,
+    "editor.rulers": [120],
+    "editor.tabSize": 4,
+    "prettier.singleQuote": true,
+    "editor.defaultFormatter": "ms-python.python",
+    "python.formatting.provider": "autopep8",
+  }
+  

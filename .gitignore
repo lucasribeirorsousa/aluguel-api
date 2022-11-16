@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pid
+*.db
+*.pyc
+**/*.pyc
+__pycache__/
+
+!uploads/.gitkeep
+uploads/
+
+.env
+local.py
